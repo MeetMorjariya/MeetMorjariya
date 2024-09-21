@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Meet Morjariya!
 
-<!--
-**MeetMorjariya/MeetMorjariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 4th-year student at RKU, passionate about coding, technology, and continuous learning. I enjoy working on projects that challenge me to think critically and help me grow as a developer.
 
-Here are some ideas to get you started:
+## 🔧 Tech Skills
+- **Languages:** [Python, Java, C++, etc.]
+- **Web Development:** [HTML, CSS, JavaScript, React, etc.]
+- **Database:** [MySQL, MongoDB, etc.]
+- **Tools:** [Git, GitHub, VS Code, etc.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Learning
+- [Your Current Learning Goals: e.g., Data Structures and Algorithms, Machine Learning, Full-Stack Development]
+
+## 💡 Projects
+- Check out my [GitHub repositories](https://github.com/MeetMorjariya) to see the projects I've been working on!
+
+## 📫 Let's Connect
+
+I'm always excited to collaborate and learn, so feel free to reach out!
